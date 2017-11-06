@@ -1,4 +1,3 @@
-
 def main():
     name = ["Jack", "Rosie", "Jane", "Keith"]
     verb = ["kicks", "throws", "picks up", "punches"]
